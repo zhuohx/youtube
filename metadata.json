@@ -1,0 +1,6 @@
+{
+  "name": "PulseTube - YouTube Competitor & Market Intelligence",
+  "description": "Direct channel health benchmarking, comment sentiment pulse, and niche market explorer with live YouTube API and mock data mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
